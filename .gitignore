@@ -1,0 +1,10 @@
+*.dll
+*.dll.a
+test_files/_*
+*.DS_Store
+*.dylib
+*.exe
+*.o
+*.d
+*.out
+.vscode/*
