@@ -9,10 +9,7 @@
 #include <glm/gtc/matrix_transform.hpp>
 
 #include <iostream>
-#include <string>
-#include <iostream>
 #include <fstream>
-#include <math.h>
 
 // if set to 1, the video will be mapped onto a sphere, if set to 0 it will be
 // mapped onto a cylinder
