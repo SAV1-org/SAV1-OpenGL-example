@@ -8,3 +8,4 @@ test_files/_*
 *.d
 *.out
 .vscode/*
+sav3dplay
